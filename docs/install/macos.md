@@ -8,7 +8,8 @@ title: MacOS Install with Metal GPU
 xcode-select -p
 
 # xcode installed returns
-# /Applications/Xcode-beta.app/Contents/Developer
+# /Applications/Xcod
+e-beta.app/Contents/Developer
 
 # if xcode is missing then install it... it takes ages;
 xcode-select --install
